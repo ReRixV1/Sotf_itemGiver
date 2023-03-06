@@ -20,5 +20,6 @@ The first number is your userid (I think) and the second number is the worldid (
 ### Installation▶
 
   •Install the .exe file from the latest release! Dont downlaod the source code(its just the readme file)
-  
-  •Thats it! Have fun!
+ 
+ 
+##Thats it! Have fun!
