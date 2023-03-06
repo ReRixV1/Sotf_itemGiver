@@ -7,5 +7,7 @@ You're gonna be able to download the program in a few days but I don't know if I
 
 How to use▶
   •Path: Put in the path where your world is saved! (Should be in "C:\Users\YOUR_USERNAME\AppData\LocalLow\Endnight\SonsOfTheForest\Saves\76561198874879216\SinglePlayer\0113546374")
+  
                                                                         ^^^^^^^^^^^^^^^^^^^            ^^^^^^^^^^
+                                                                        
                                                                         Your userid (I think)           Your worldid
