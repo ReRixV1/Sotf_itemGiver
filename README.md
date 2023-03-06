@@ -7,7 +7,8 @@ You're gonna be able to download the program in a few days but I don't know if I
 
 ### How to use▶
 
-  •Path: Put in the path where your world is saved! (Should be in "C:\Users\YOUR_USERNAME\AppData\LocalLow\Endnight\SonsOfTheForest\Saves\765612398874879216\SinglePlayer\0113546374") The first number is your userid (I think) and the second number is the worldid (the world you want to add the items to)
+  •Path: Put in the path where your world is saved! (Should be in "C:\Users\YOUR_USERNAME\AppData\LocalLow\Endnight\SonsOfTheForest\Saves\765612398874879216\SinglePlayer\0113546374")
+The first number is your userid (I think) and the second number is the worldid (the world you want to add the items to)
   
   •Item: Is just the item you want to add to your inventory! If you add a Item like a chainsaw more than once to the same world then your whole inventory will be cleared!
   
