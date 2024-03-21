@@ -1,5 +1,7 @@
 # Sons of the Forest Item Giver
 
+## Uncontinued! Probably doesn't work anymore!!!
+
 ## This is a project im making for fun. So if you encounter any bugs or whatever then I'm sorry! I will add more items soon!
 
 ![SOTF_ItemGiver-0 0 1-alpha 1_d71xPpw5QT](https://user-images.githubusercontent.com/75085509/223226954-210ba779-7f4a-4e27-a71c-f6423b25aad9.png)
